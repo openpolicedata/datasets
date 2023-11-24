@@ -1,0 +1,206 @@
+Incident_Occurred_Date,Incident_Location,City,State,Incident_Type,Allegation,Incident_Disposition,Citizen_Race,Citizen_Gender,Officer_Race,Officer_Gender,FID,Incident_ID
+2018-01-27 12:00:00,N Capitol Ave / W Oakland Ave,Lansing,MI, Citizen complaint,Use of Force,Informational Only,Black,Female,White,Male,35,18208
+2018-01-27 12:00:00,N Capitol Ave / W Oakland Ave,Lansing,MI, Citizen complaint,Use of Force,Informational Only,Black,Female,White,Male,36,18208
+2019-08-21 12:00:00,S Washington / W Washtenaw St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female, ,  ,1,17754
+2019-08-02 12:00:00,E Malcolm X St / Bensch St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Black,Male, , ,2,17773
+2019-10-08 12:00:00,W Miller Rd / Hughes Rd,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,White,Male,3,17845
+2019-10-09 12:00:00,E Kalamazoo St / S Holmes St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Unknown,Male,  , ,4,17854
+2019-11-05 12:00:00,E Cavanaugh Rd / Aurelius Rd,Lansing,MI, Citizen complaint,Departmental Reports,Informational Only,White,Female,White,Male,5,17889
+2019-11-05 12:00:00,E Cavanaugh Rd / Aurelius Rd,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,White,Male,6,17889
+2019-11-07 12:00:00,W Michigan Ave / N Capitol Ave,Lansing,MI, Citizen complaint,,Informational Only,White,Male,  ,  ,7,17893
+2019-11-10 12:00:00,E Michigan Ave / S Pennsylvania Ave,Lansing,MI, Citizen complaint,,Informational Only,Black,Female, , ,8,17900
+2019-11-05 12:00:00,Southland Ave / S Washington Ave,Lansing,MI, Citizen complaint,,Informational Only,Black,Male, , ,9,17914
+2019-11-08 12:00:00,S Martin Luther King Jr Blvd / Loa St,Lansing,MI, Citizen complaint,,Informational Only,White,Male, , ,10,17926
+2019-12-23 12:00:00,Appleton Ave / Fred St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male, Black, Male,11,17954
+2019-12-21 12:00:00,E Jolly Rd / S Cedar St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Unknown,Male,White,Male,12,17956
+2019-12-29 12:00:00,Wise Rd / W Miller Rd,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,White,Female,14,18007
+2019-12-04 12:00:00,Chadburne Dr / Glenburne Ave,Lansing,MI,Citizen complaint,Abuse of Process,Informational Only,White,Male,White,Male,126,18893
+2020-01-30 12:00:00,Downey St / Mildred St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,Black,Male,13,18000
+2020-02-24 12:00:00,W Holmes Rd / Schlee St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Exonerated,Black,Male,White,Male,15,18030
+2020-01-30 12:00:00,S Cedar St / Jessop Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,White,Male,16,18031
+2020-02-13 12:00:00,S Washington Ave / W Holmes Rd,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,White,Female,17,18041
+2020-03-04 12:00:00,S Martin Luther King Jr Blvd / W Holmes Rd,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,18,18077
+2020-03-13 12:00:00,Astor Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Unknown,Male,White,Male,19,18087
+2020-04-07 12:00:00,S Martin Luther King Jr Blvd / Hughes Rd,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,White,Female,20,18121
+2020-04-07 12:00:00,S Martin Luther King Jr Blvd / Hughes Rd,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,White,Male,21,18121
+2020-04-14 12:00:00,I-96 / S Washington Ave,Lansing,MI, Citizen complaint,Use of Force,Informational Only,Black,Female,White,Male,22,18122
+2020-04-28 12:00:00,Teel Ave / W Mt Hope Ave,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Male,White,Male,23,18140
+2020-04-15 12:00:00,S Washington Ave / Kalamazoo St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Male,White,Male,24,18154
+2020-03-10 12:00:00,S Washington Ave / Allegan St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Black,Male,White,Male,25,18165
+2020-06-06 12:00:00,E Cesar E Chavez Ave / Vermont Ave,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,Asian,Male,26,18184
+2020-06-06 12:00:00,E Cesar E Chavez Ave / Vermont Ave,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,White,Male,27,18184
+2020-06-10 12:00:00,E Jolly Rd / S Cedar St,Lansing,MI, Citizen complaint,Courtesy,Sustained,White,Female,Black,Male,28,18186
+2020-06-08 12:00:00,S Pennsylvania Ave / Dennis St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,Hispanic,Male,29,18193
+2020-06-08 12:00:00,S Pennsylvania Ave / Dennis St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,White,Male,30,18193
+2020-06-16 12:00:00,Astor Ave / Tenny St,Lansing,MI, Citizen complaint,Violation of Rules,Informational Only,White,Male,White,Male,31,18196
+2020-06-16 12:00:00,Astor Ave / Tenny St,Lansing,MI, Citizen complaint,Violation of Rules,Informational Only,White,Male,White,Male,32,18196
+2020-06-17 12:00:00,May St / N Pennsylvania Ave,Lansing,MI, Citizen complaint,Violation of Rules,Informational Only,Unknown,Female,Hispanic,Male,33,18198
+2020-06-17 12:00:00,May St / N Pennsylvania Ave,Lansing,MI, Citizen complaint,Violation of Rules,Informational Only,Unknown,Female,White,Male,34,18198
+2020-06-26 12:00:00,E Michigan Ave / S Pennsylvania Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Hispanic,Male,White,Male,37,18217
+2020-07-20 12:00:00,Townsend St / Lenawee St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Black,Male,White,Male,38,18275
+2020-07-30 12:00:00,Rayborn Dr / Malibu Dr,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Male,39,18276
+2020-08-13 12:00:00,E Michigan Ave / S Cedar St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Sustained,White,Male,White,Male,40,18286
+2020-08-13 12:00:00,E Michigan Ave / S Cedar St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Exonerated,White,Male,White,Male,41,18286
+2020-08-13 12:00:00,E Michigan Ave / S Cedar St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Sustained,White,Male,Hispanic,Male,42,18286
+2020-08-11 12:00:00,N Pine St / W Saginaw St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Male,43,18298
+2020-08-11 12:00:00,N Pine St / W Saginaw St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Male,44,18298
+2020-08-09 12:00:00,Dakin St / Gray St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Female,Black,Female,45,18299
+2020-09-13 12:00:00,Sandhurst Dr / Averill Dr,Lansing,MI, Citizen complaint,Use of Force,Informational Only,Black,Male,White,Male,46,18329
+2020-09-12 12:00:00,S Martin Luther King Jr Blvd / Pierce Rd,Lansing,MI, Citizen complaint,Use of Force,Informational Only,Black,Female,White,Male,47,18332
+2020-09-27 12:00:00,W Holmes Rd / S Martin Luther King Jr Blvd,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Male,White,Female,48,18359
+2020-09-20 12:00:00,Louisa St / Richwood St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Not Sustained,Black,Male,Hispanic,Male,49,18366
+2020-09-20 12:00:00,Louisa St / Richwood St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Not Sustained,Black,Male,Hispanic,Male,50,18366
+2020-09-20 12:00:00,Louisa St / Richwood St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Not Sustained,Black,Male,White,Male,51,18366
+2020-09-20 12:00:00,Louisa St / Richwood St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Not Sustained,Black,Male,White,Male,52,18366
+2020-10-24 12:00:00,S Genesee St / Carey St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,53,18412
+2020-10-24 12:00:00,S Genesee St / Carey St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,54,18412
+2020-11-04 12:00:00,Risdale Ave / Richmond St,Lansing,MI, Citizen complaint,Use of Force,Informational Only,Black,Female,White,Male,55,18423
+2020-11-28 12:00:00,W Saginaw St / N Chestnut St,Lansing,MI, Citizen complaint,Courtesy,Exonerated,White,Male,Black,Female,56,18456
+2020-11-26 12:00:00,Clear St / E Elm St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,57,18530
+2020-12-28 12:00:00,W Saginaw St / N Chestnut St,Lansing,MI, Citizen complaint,Violation of Rules,Not Sustained,White,Male,White,Male,58,18535
+2020-12-28 12:00:00,W Saginaw St / N Chestnut St,Lansing,MI, Citizen complaint,Violation of Rules,Not Sustained,White,Male,White,Male,59,18535
+2020-12-13 12:00:00,New York Ave / Oak St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,66,18655
+2020-12-13 12:00:00,New York Ave / Oak St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,67,18655
+2020-12-13 12:00:00,New York Ave / Oak St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,68,18655
+2020-11-14 12:00:00,Johnson Ave / E Oakland Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,White,Male,69,18658
+2020-10-06 12:00:00,Jerome St / N Fairview Ave,Lansing,MI, Citizen complaint,Departmental Reports,Informational Only,White,Male,White,Male,107,18855
+2020-11-28 12:00:00,New York Ave / Drury Ln ,Lansing,MI,Citizen complaint,Processing Property and Evidence ,Informational Only,White,Female,Asian ,Male,120,18883
+2020-08-26 12:00:00,Wise Rd / W Miller Rd,Lansing,MI,Citizen complaint,Courtesy,Informational Only,Black,Male,White,Male,134,18930
+2021-01-08 12:00:00,S Martin Luther King Jr Blvd / Mary Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Female,60,18537
+2021-01-30 12:00:00,Clear St / E Hazel St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,Black,Male,61,18574
+2021-01-30 12:00:00,Clear St / E Hazel St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,Black,Male,62,18574
+2021-01-26 12:00:00,N Cedar St / E Saginaw St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,63,18587
+2021-02-15 12:00:00,S Martin Luther King Jr Blvd / Kelsey Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,White,Male,64,18604
+2021-02-28 12:00:00,W Cesar E Chavez Ave / N Walnut St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,65,18628
+2021-03-24 12:00:00,E Potter Ave / Donald St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Other,Male,Asian,Male,70,18665
+2021-03-24 12:00:00,E Potter Ave / Donald St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Other,Male,White,Male,71,18665
+2021-03-24 12:00:00,E Potter Ave / Donald St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Other,Male,White,Male,72,18665
+2021-03-24 12:00:00,E Potter Ave / Donald St,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Other,Male,White,Male,73,18665
+2021-03-29 12:00:00,E Saginaw St / Coolidge Rd,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Male,White,Male,74,18675
+2021-03-29 12:00:00,E Saginaw St / Coolidge Rd,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Male,White,Male,75,18675
+2021-03-31 12:00:00,S Cedar St / Denver Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,Unknown,Unknown,76,18678
+2021-03-31 12:00:00,W Saginaw St / Canal Rd,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Black,Male,White,Male,77,18684
+2021-03-31 12:00:00,W Saginaw St / Canal Rd,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Black,Male,White,Male,78,18684
+2021-03-31 12:00:00,W Saginaw St / Canal Rd,Lansing,MI, Citizen complaint,Arrest; Search and Seizure,Informational Only,Black,Male,White,Female,79,18684
+2021-03-31 12:00:00,Fairway Ln / Hillgate Way,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Female,Hispanic,Female,80,18685
+2021-03-20 12:00:00,Tecumseh / Windsor St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Sustained,White,Female,White,Female,81,18698
+2021-02-22 12:00:00,E Jolly Rd / Ora St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Female,White,Male,82,18702
+2021-04-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Unknown,Female,White,Male,83,18713
+2021-05-06 12:00:00,S Pennsylvania Ave / Dexter Dr,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Female,White,Male,84,18727
+2021-04-18 12:00:00,S Francis Ave / E Kalamazoo St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Male,White,Male,85,18732
+2021-04-18 12:00:00,S Francis Ave / E Kalamazoo St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Male,White,Male,86,18732
+2021-04-18 12:00:00,S Francis Ave / E Kalamazoo St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Male,White,Male,87,18732
+2021-04-18 12:00:00,S Francis Ave / E Kalamazoo St,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Male,Hispanic,Male,88,18732
+2021-05-11 12:00:00,W Michigan Ave / N Capitol Ave,Lansing,MI, Citizen complaint,Processing Property and Evidence,Informational Only,White,Male,White,Male,89,18733
+2021-03-03 12:00:00,E Oakland Ave / N Larch St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,White,Male,90,18734
+2021-05-23 12:00:00,S Catherine St / Fauna Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,Black,Male,91,18747
+2021-05-22 12:00:00,S Francis Ave / E Kalamazoo St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Female,92,18748
+2021-05-23 12:00:00,W Edgewood Blvd / S Washington Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,White,Male,93,18750
+2021-05-23 12:00:00,W Edgewood Blvd / S Washington Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,White,Male,94,18750
+2021-05-23 12:00:00,W Edgewood Blvd / S Washington Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,White,Male,95,18750
+2021-05-25 12:00:00,W Jolly Rd / S Washington Ave,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Female,Black,Male,96,18751
+2021-05-25 12:00:00,W Jolly Rd / S Washington Ave,Lansing,MI, Citizen complaint,Courtesy,Informational Only,Hispanic,Female,White,Female,97,18751
+2021-05-23 12:00:00,Stillwell Ave / Brighton Dr,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Unknown,Female,White,Female,98,18761
+2021-06-11 12:00:00,E Greenlawn Ave / S Cedar St,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,Hispanic,Male,White,Female,99,18788
+2021-06-21 12:00:00,S Martin Luther King Jr Blvd / Warwick Dr,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,White,Male,100,18796
+2021-06-21 12:00:00,S Martin Luther King Jr Blvd / Warwick Dr,Lansing,MI, Citizen complaint,Courtesy,Informational Only,White,Male,White,Male,101,18796
+2021-06-20 12:00:00,New York Ave / E North St,Lansing,MI, Citizen complaint,Courtesy; Unbecoming Conduct; Arrest Search and Seizure,Unfounded,White,Male,White,Male,102,18803
+2021-06-20 12:00:00,New York Ave / E North St,Lansing,MI, Citizen complaint,Courtesy; Unbecoming Conduct; Arrest Search and Seizure,Unfounded,White,Male,Black,Female,103,18803
+2021-07-14 12:00:00,S Washington Ave/ Hodge Ave ,Lansing,MI,Citizen complaint,Processing Property and Evidence ,Unfounded,Black,Male,White,Female,104,18843
+2021-07-14 12:00:00,S Washington Ave/ Hodge Ave ,Lansing,MI,Citizen complaint,Processing Property and Evidence ,Unfounded,Black,Male,Asian,Male,105,18843
+2021-07-14 12:00:00,S Washington Ave/ Hodge Ave ,Lansing,MI,Citizen complaint,Processing Property and Evidence ,Unfounded,Black,Male,White,Male,106,18843
+2021-07-08 12:00:00,Creston Ave / E Fairfield Ave,Lansing,MI, Citizen complaint,Unsatisfactory Performance,Informational Only,White,Female,Hispanic,Female,108,18855
+2021-07-27 12:00:00,S Washington Ave / Isbell St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Sustained,Black,Male,White,Male,109,18862
+2021-07-27 12:00:00,S Washington Ave / Isbell St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Sustained,Other,Female,White,Female,110,18862
+2021-07-27 12:00:00,S Washington Ave / Isbell St,Lansing,MI,Citizen complaint,Arrest; Search and Seizure,Not Sustained,Black,Male,White,Male,111,18862
+2021-07-27 12:00:00,S Washington Ave / Isbell St,Lansing,MI,Citizen complaint,Arrest; Search and Seizure,Not Sustained,Other,Female,White,Female,112,18862
+2021-07-20 12:00:00,Burneway Dr / Waverly Rd,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,White,Male,Black,Male,113,18866
+2021-08-05 12:00:00,Delbrook Ave / W Jolly Rd,Lansing,MI,Citizen complaint,Abuse of Process; Violation of Rules  ,Informational Only,Hispanic ,Female,White,Male,114,18871
+2021-08-05 12:00:00,Delbrook Ave / W Jolly Rd,Lansing,MI,Citizen complaint,Abuse of Process; Violation of Rules  ,Informational Only,Hispanic ,Female,White,Male,115,18871
+2021-08-05 12:00:00,Delbrook Ave / W Jolly Rd,Lansing,MI,Citizen complaint,Abuse of Process; Violation of Rules  ,Informational Only,Hispanic ,Female,White,Male,116,18871
+2021-08-05 12:00:00,Delbrook Ave / W Jolly Rd,Lansing,MI,Citizen complaint,Abuse of Process; Violation of Rules  ,Informational Only,Hispanic ,Female,White,Female,117,18871
+2021-08-05 12:00:00,Delbrook Ave / W Jolly Rd,Lansing,MI,Citizen complaint,Abuse of Process; Violation of Rules  ,Informational Only,Hispanic ,Female,White,Female,118,18871
+2021-08-05 12:00:00,I-496 / S Martin Luther King Jr Blvd,Lansing,MI,Citizen complaint,Courtesy,Informational Only,White,Male,Black,Male,119,18879
+2021-08-03 12:00:00,Leslie Ave / Elizabeth St ,Lansing,MI,Citizen complaint,Unsatisfactory Performance; Unbecoming Conduct,Informational Only,White,Male,Asian,Male,121,18886
+2021-08-03 12:00:00,Leslie Ave / Elizabeth St ,Lansing,MI,Citizen complaint,Unsatisfactory Performance; Unbecoming Conduct,Informational Only,White,Male,White,Male,122,18886
+2021-08-03 12:00:00,Leslie Ave / Elizabeth St ,Lansing,MI,Citizen complaint,Unsatisfactory Performance; Unbecoming Conduct,Informational Only,White,Male,White,Female,123,18886
+2021-08-13 12:00:00,N Martin Luther King Jr Blvd / Rose Ct,Lansing,MI,Citizen complaint,Courtesy,Informational Only,Black,Male,White,Male,124,18887
+2021-08-19 12:00:00,S Pennsylvania Ave / Prospect St,Lansing,MI,Citizen complaint,Courtesy,Informational Only,Unknown,Male,White,Male,125,18889
+2021-08-24 12:00:00,S Pennsylvania Ave / E Miller Rd,Lansing,MI,Citizen complaint,Courtesy,Not Sustained,Black,Male,Asian,Male,127,18895
+2021-08-24 12:00:00,S Pennsylvania Ave / E Miller Rd,Lansing,MI,Citizen complaint,Unbecoming Conduct,Not Sustained,Black,Male,Asian,Male,128,18895
+2021-08-24 12:00:00,S Pennsylvania Ave / E Miller Rd,Lansing,MI,Citizen complaint,Violation of Rules,Informational Only,Black,Male,Asian,Male,129,18895
+2021-08-23 12:00:00,Delbrook Ave / W Jolly Rd,Lansing,MI,Citizen complaint,Courtesy; Violation of Rules,Informational Only,Hispanic,Female,White,Male,130,18897
+2021-08-28 12:00:00,S Martin Luther King Jr Blvd / Ferley St,Lansing,MI,Citizen complaint,Courtesy,Informational Only,Black,Male,White,Male,131,18909
+2021-08-30 12:00:00,S Martin Luther King Jr Blvd / W Malcolm X St,Lansing,MI,Citizen complaint,Unbecoming Conduct,Informational Only,Unknown,Female,White,Female,132,18910
+2021-08-30 12:00:00,S Martin Luther King Jr Blvd / W Malcolm X St,Lansing,MI,Citizen complaint,Unbecoming Conduct,Informational Only,Black,Male,White,Female,133,18910
+2021-09-14 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Hispanic,Male,White,Male,135,18935
+2021-09-14 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Hispanic,Male,Hispanic ,Male,136,18935
+2021-09-14 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Hispanic,Male,White,Female,137,18935
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Male,138,18949
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Male,139,18949
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Female,140,18949
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,White,Female,141,18949
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,Black,Male,142,18949
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,Black,Male,143,18949
+2021-09-20 12:00:00,W Michigan Ave / S Capitol Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Black,Male,Hispanic,Male,144,18949
+2021-09-26 12:00:00,E Jolly Rd / S Cedar St,Lansing,MI,Citizen complaint,Unbecoming Conduct,Informational Only,Black,Male,White,Male,145,18959
+2021-06-01 12:00:00,E Michigan Ave,Lansing,MI,Citizen complaint,Arrest; Search; and Seizure,Unfounded,White,Male,White,Male,146,20210024
+2021-07-10 00:00:00,W Kalamazoo St / Huron St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Partially Sustained,Unknown,Male,Black,Male,147,20210031
+2021-07-10 12:00:00,W Kalamazoo St / Huron St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Partially Sustained,Unknown,Male,White,Male,148,20210031
+2021-10-15 12:00:00,New York Ave / Oak St.,Lansing,MI,Citizen complaint,Arrest; Search and Seizure,Informational Only,Black,Male,White,Male,149,20210414
+2021-10-14 12:00:00,E Jolly Rd / S Cedar St,Lansing,MI,Citizen complaint,Courtesy,Informational Only,Unknown,Male,White,Male,150,20210415
+2021-11-02 12:00:00,E Saginaw St / Marshall St,Lansing,MI,Citizen complaint,Unbecoming Conduct,Informational Only,White,Male,White ,Male,151,20210439
+2021-11-02 12:00:00,E Saginaw St / Marshall St,Lansing,MI,Citizen complaint,Unbecoming Conduct,Informational Only,White,Male,White ,Male,152,20210439
+2021-07-08 12:00:00,Rumsey Ave / Jerome St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Hispanic,Female,White,Male,153,20210448
+2021-07-08 12:00:00,Rumsey Ave / Jerome St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Hispanic,Female,Black,Female,154,20210448
+2021-07-08 12:00:00,Rumsey Ave / Jerome St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Hispanic,Female,White,Male,155,20210448
+2021-09-16 12:00:00,N Hayford Ave / E Saginaw St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Partially Sustained,Unknown,Female,White,Male,156,20210042
+2021-09-17 12:00:00,N Hayford Ave / E Saginaw St,Lansing,MI,Citizen complaint,Violation of Rules,Partially Sustained,Unknown,Female,White,Male,157,20210042
+2021-09-22 12:00:00,Stabler St / E Mason St,Lansing,MI,Citizen complaint,Use of Force,Exonerated,Black,Female,Black,Male,158,20210043
+2021-09-22 12:00:00,Stabler St / E Mason St,Lansing,MI,Citizen complaint,Use of Force,Exonerated,Black,Male,Black,Male,159,20210043
+2021-09-20 00:00:00,Ballard Rd / Reo Rd,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Exonerated,Unknown,Female,White,Male,160,20210044
+2021-09-20 12:00:00,Ballard Rd / Reo Rd,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Exonerated,Unknown,Female,Black,Female,161,20210044
+2021-09-20 12:00:00,Ballard Rd / Reo Rd,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Exonerated,Unknown,Female,White,Male,162,20210044
+2021-09-18 12:00:00,W Willow St / Knollwood Ave,Lansing,MI,Citizen complaint,Unbecoming Conduct,Unfounded,Black,Male,White,Male,163,20210046
+2021-09-18 12:00:00,W Willow St / Knollwood Ave,Lansing,MI,Citizen complaint,Arrest; Search and Seizure,Unfounded,Black,Male,White,Male,164,20210046
+2021-10-24 12:00:00,Cox Blvd / Donald St,Lansing,MI,Citizen complaint,Violation of Rules,Exonerated,Black,Female,White,male,165,20210048
+2021-09-30 12:00:00,S Cedar St / Cloverland Dr,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Not Sustained,White,Female,White,Male,166,20210049
+2021-09-30 12:00:00,S Cedar St / Cloverland Dr,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Not Sustained,White,Female,White,Male,167,20210049
+2021-09-30 12:00:00,S Cedar St / Cloverland Dr,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Not Sustained,White,Female,White,Male,168,20210049
+2021-11-03 12:00:00,S Cedar St / Cloverland Dr,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Exonerated,White,Female,White,Female,169,20210050
+2021-11-03 12:00:00,S Cedar St / Cloverland Dr,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Female,Black,Male,170,20210051
+2021-11-29 12:00:00,W Greenlawn Ave / Eaton Rd,Lansing,MI,Citizen complaint,Violation of Rules,Exonerated,White,Male,White,Male,171,20210053
+2021-11-29 12:00:00,W Greenlawn Ave / Eaton Rd,Lansing,MI,Citizen complaint,Violation of Rules,Exonerated,White,Male,White,Male,172,20210053
+2021-12-28 23:10:00,Kaynorth Rd / E Northrup St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,Black,Female,White,Male,177,20220011
+2021-12-28 23:10:00,Kaynorth Rd / E Northrup St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,Black,Female,White,Female,178,20220011
+2021-12-28 23:10:00,Kaynorth Rd / E Northrup St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,Black,Female,White,Female,179,20220011
+2021-12-28 23:10:00,Kaynorth Rd / E Northrup St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,Black,Female,White,Male,180,20220011
+2021-11-11 12:00:00,Regent St / Perkins St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Male,Black,Male,191,20220018
+2022-01-07 12:00:00,S Cedar St / Pacific Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,Black,Female,White,Female,173,20220002
+2022-01-11 12:00:00,N Martin Luther King Jr Blvd / W Willow St,Lansing,MI,Citizen complaint,Violation of Rules,Unfounded,Black,Male,Black,Male,174,20220004
+2022-01-01 12:00:00,Townsend St / W Lenawee St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Exonerated,Black,Male,White,Male,175,20220005
+2022-02-01 12:00:00,Wisconsin Ave / Daleford Ave,Lansing,MI,Citizen complaint,Courtesy,Sustained,White,Male,White,Male,176,20220006
+2022-02-18 12:00:00,5000 Block of Wise Rd,Lansing,MI,Citizen complaint,Courtesy,Not Sustained,Black,Female,White,Female,181,20220014
+2022-02-16 12:00:00,Wainwright Ave / Glenbrook Dr,Lansing,MI,Citizen complaint,Neglect of Duty,Exonerated,White,Female,Black,Male,182,20220015
+2022-02-25 12:00:00,W Jolly Rd / Kensington Cir,Lansing,MI,Citizen complaint,Use of Force,Exonerated,Black,Male,White,Male,183,20220016
+2022-02-25 12:00:00,W Jolly Rd / Kensington Cir,Lansing,MI,Citizen complaint,Use of Force,Exonerated,Black,Male,White,Male,184,20220016
+2022-02-25 12:00:00,W Jolly Rd / Kensington Cir,Lansing,MI,Citizen complaint,Use of Force,Exonerated,Black,Male,White,Male,185,20220016
+2022-02-25 12:00:00,W Jolly Rd / Kensington Cir,Lansing,MI,Citizen complaint,Use of Force,Exonerated,Black,Male,Black,Male,186,20220016
+2022-03-02 12:00:00,Anson St / Lucie St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Male,White,Male,187,20220017
+2022-03-02 12:00:00,Anson St / Lucie St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Male,White,Male,188,20220017
+2022-03-02 12:00:00,Anson St / Lucie St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Male,White,Male,189,20220017
+2022-03-02 12:00:00,Anson St / Lucie St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Male,White,Male,190,20220017
+2022-03-09 01:30:00,Sunset Ave / Melvin Ct,Lansing,MI,Citizen complaint,Unbecoming Conduct,Not Sustained,Black,Male,Hispanic,Male,192,20220022
+2022-03-09 01:30:00,Sunset Ave / Melvin Ct,Lansing,MI,Citizen complaint,Unbecoming Conduct,Not Sustained,Black,Male,White,Male,193,20220022
+2022-03-09 01:30:00,Sunset Ave / Melvin Ct,Lansing,MI,Citizen complaint,Departmental And Injury Reports,Not Sustained,Black,Male,Hispanic,Male,194,20220022
+2022-03-09 01:30:00,Sunset Ave / Melvin Ct,Lansing,MI,Citizen complaint,Departmental And Injury Reports,Not Sustained,Black,Male,White,Male,195,20220022
+2022-03-18 12:00:00,S Pennsylvania Ave / E Miller Rd,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Black,Male,White,Male,196,20220023
+2022-04-03 03:36:00,Randall St / 7th Ave,Lansing,MI,Citizen complaint,Courtesy,Unfounded,White,Female,Black,Male,197,20220027
+2022-04-03 03:36:00,Randall St / 7th Ave,Lansing,MI,Citizen complaint,Courtesy,Unfounded,White,Female,White,Male,198,20220027
+2022-04-03 03:36:00,Randall St / 7th Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Female,Black,Male,199,20220027
+2022-04-03 03:36:00,Randall St / 7th Ave,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Unfounded,White,Female,White,Male,200,20220027
+2022-05-13 23:45:00,E Kalamazoo St / US 127,Lansing,MI,Citizen complaint,Use Of Force,Exonerated,White,Female,White,Male,201,20220029
+2022-06-19 04:00:00,W Jolly Rd / S Washington Ave,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Unknown,Female,White,Male,202,20220037
+2022-07-06 23:29:00,Seymour Ave / W Lapeer St,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Black,Female,White,Male,203,20220040
+2022-07-06 23:29:00,Seymour Ave / W Lapeer St,Lansing,MI,Citizen complaint,Courtesy,Unfounded,Black,Female,White,Male,204,20220040
+2023-02-14 12:00:00,500 Block of W Madison St,Lansing,MI,Citizen complaint,Unsatisfactory Performance,Informational Only,Unknown,Female,Black,Male,261,20230011
