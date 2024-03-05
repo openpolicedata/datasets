@@ -2,3 +2,6 @@ State, Source, TableType, Backup Downloaded From, Reason for Including
 Michigan, Lansing, COMPLAINTS, https://services1.arcgis.com/pNPbgWy7hpfFGWoZ/arcgis/rest/services/Lansing_MI_Police_Citizen_Complaints/FeatureServer/0/query?outFields=*&where=1%3D1, Data removed from https://data-lansing.opendata.arcgis.com
 Michigan, Lansing, OFFICER-INVOLVED SHOOTINGS, https://services1.arcgis.com/pNPbgWy7hpfFGWoZ/arcgis/rest/services/OfficerInvolvedShooting/FeatureServer/0/query?outFields=*&where=1%3D1, Data removed from https://data-lansing.opendata.arcgis.com
 Missouri, St. Louis County, USE OF FORCE, https://www.arcgis.com/sharing/rest/content/items/9ba9c606ce9a486d98875442e600f861/data, Data removed from https://data.stlouisco.com
+Washington, Bremerton, ARRESTS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
+Washington, Bremerton, CITATIONS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
+Washington, Bremerton, INCIDENTS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
