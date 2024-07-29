@@ -1,0 +1,187 @@
+,case,date,officer_name,rank,officer_race_ethnicity,officer_gender,officer_age,pd_agency_jurisdiction,years_le_experience,prev_ois,officer_weapon_caliber,officer_weapon_type,was_officer_informed_that_subject_was_armed,shots_fired_by_officer,how_cleared,location_1
+0,"08-5059600
+08-3110300",2008-11-06,Ofc. Will Ray,ofc,White,Male,23,APD,1.0,No,0.4,handgun,Yes,4,No Billed by Grand Jury,"{'latitude': '30.319315', 'longitude': '-97.689358', 'human_address': '{""address"": ""6603 Berkman Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,09-0431751,2009-02-12,Dep. Darren Sartin (U.S. Marshal),other - dep,White,Male,40,US Marshal,14.0,No,0.40,handgun,Yes,3,No Billed by Grand Jury,"{'latitude': '30.443284', 'longitude': '-97.787553', 'human_address': '{""address"": ""9218 Balcones Club Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"09-5072203
+09-3620161",2009-12-28,Ofc. Justin Berry,ofc,White,Male,24,APD,2.0,No,0.40,handgun,no (subject did have gun),1,No Billed by Grand Jury,"{'latitude': '30.151215', 'longitude': '-97.843473', 'human_address': '{""address"": ""11815 Johnny Weismuller Ln"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"09-5052963
+09-2280484",2009-08-16,Agt. Joe Cronin (TABC),other - agt,White,Male,31,TABC,9.0,No,0.45,handgun,No,3,No Billed by Grand Jury,"{'latitude': '30.235461', 'longitude': '-97.718944', 'human_address': '{""address"": ""1515 Wickersham Ln"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"09-5006129
+09-0302652",2009-01-30,Ofc. Jeffrey Kirkpatrick,ofc,White,Male,36,APD,6.0,No,0.45,handgun,No (subject did have gun),1,not presented to grand jury (DA declined),"{'latitude': '30.214181', 'longitude': '-97.769479', 'human_address': '{""address"": ""4714 S Congress Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"09-5053921
+09-1310302",2009-05-11,Ofc. Leonardo Quintana,ofc,Hispanic,Male,33,APD,8.0,No,0.40,handgun,No (subject did have gun),5,No Billed by Grand Jury,"{'latitude': '30.307201', 'longitude': '-97.669664', 'human_address': '{""address"": ""6409 Springdale Rd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+5,"09-5072203
+09-3620161",2009-12-28,Dep. Theodore Ramsey (TCSO),other - dep,White,Male,36,TCSO,9.0,No,12 gauge,shotgun,no (subject did have gun),1,No Billed by Grand Jury,"{'latitude': '30.151215', 'longitude': '-97.843473', 'human_address': '{""address"": ""11815 Johnny Weismuller Ln"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+6,"09-5052963
+09-2280484",2009-08-16,Agt. John Altum (TABC),other - agt,White,Male,36,TABC,16.0,No,0.40,handgun,No,16,No Billed by Grand Jury,"{'latitude': '30.235461', 'longitude': '-97.718944', 'human_address': '{""address"": ""1515 Wickersham Ln"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"10-5068185
+10-3572205",2010-12-23,Ofc. Frank Wilson V,ofc,Black,Male,36,APD,6.0,No,0.40,handgun,No (subject did have knife),1,No Billed by Grand Jury,"{'latitude': '30.438023', 'longitude': '-97.740493', 'human_address': '{""address"": ""13006 Campos Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"10-5058733
+10-5058741
+10-5058742
+10-3060261",2010-11-02,Ofc. Jason Martin,ofc,White,Male,30,APD,3.0,No,0.40,handgun,Yes,2,No Billed by Grand Jury,"{'latitude': '30.41496', 'longitude': '-97.703314', 'human_address': '{""address"": ""12320 Tomanet Trl"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"10-5055642
+10-2680066",2010-09-25,Cpl. Javier Bustos,cpl,Hispanic,Male,42,APD,11.0,No,0.45,handgun,Yes,1,No Billed by Grand Jury,"{'latitude': '30.219623', 'longitude': '-97.689696', 'human_address': '{""address"": ""7800 E Ben White Blvd WB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"10-5058733
+10-5058741
+10-5058742
+10-3060261",2010-11-02,Ofc. Will Ray,ofc,White,Male,25,APD,3.0,Yes,12 gauge,shotgun,Yes,4,No Billed by Grand Jury,"{'latitude': '30.417083', 'longitude': '-97.704888', 'human_address': '{""address"": ""12331 N Mopac Expy Svrd NB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"10-2740401
+10-2741075",2010-10-01,Ofc. Derrick Bowman,ofc,White,Male,27,APD,3.0,No,0.40,handgun,no (subject did have gun),14,No Billed by Grand Jury,"{'latitude': '30.19096', 'longitude': '-97.771937', 'human_address': '{""address"": ""801 E William Cannon Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,11-3390300,2011-12-05,TCSO Dep. Tracy Stirman,other - dep,White,Male,46,TCSO,8.0,No,0.40,handgun,Yes,3,No Billed by Grand Jury,"{'latitude': '30.181796', 'longitude': '-97.856066', 'human_address': '{""address"": ""3708 Aspen Creek Pkwy"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"11-5038917
+11-2271207",2011-08-15,Ofc. Branden Kunkel,ofc,White,Male,38,APD,3.0,No,0.40,handgun,Yes,2,No Billed by Grand Jury,"{'latitude': '26.489341', 'longitude': '-80.089825', 'human_address': '{""address"": ""3630 S Congress Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"11-5052201
+11-3090370",2011-11-05,Ofc. Derrick Bowman,ofc,White,Male,28,APD,4.0,Yes,0.223,rifle,No,2,No Billed by Grand Jury,"{'latitude': '30.159946', 'longitude': '-97.77643', 'human_address': '{""address"": ""810 E Slaughter Ln"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,11-5060110 11-3621220,2011-12-28,Det. Tom Hugonnett,det,White,Male,44,APD,18.0,No,0.40,handgun,No,2,No Billed by Grand Jury,"{'latitude': '29.56345', 'longitude': '-98.340468', 'human_address': '{""address"": ""7800 N IH 35 Svrd SB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,11-3390300,2011-12-05,Ofc. Christopher Allen,ofc,White,Male,34,APD,6.0,No,9mm,handgun,Yes,14,No Billed by Grand Jury,"{'latitude': '30.181796', 'longitude': '-97.856066', 'human_address': '{""address"": ""3708 Aspen Creek Pkwy"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+5,"11-5038917
+11-2271207",2011-08-15,Ofc. Eduardo Pena,ofc,Hispanic,Male,33,APD,3.0,No,0.40,handgun,Yes,6,No Billed by Grand Jury,"{'latitude': '26.489341', 'longitude': '-80.089825', 'human_address': '{""address"": ""3630 S Congress Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+6,"11-5023381
+11-1290071",2011-05-09,Ofc. Steven Peña,ofc,Hispanic,Male,27,APD,3.0,No,12 gauge,shotgun,Yes,3,No Billed by Grand Jury,"{'latitude': '30.233907', 'longitude': '-97.731631', 'human_address': '{""address"": ""1919 Burton Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+7,"11-5028251
+11-1502313",2011-05-30,Ofc. Nathan Wagner,ofc,White,Male,28,APD,3.0,No,0.40,handgun,No,5,No Billed by Grand Jury,"{'latitude': '40.868762', 'longitude': '-97.583783', 'human_address': '{""address"": ""800 Block E 8th St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"12-5016942
+12-0961610",2012-04-05,Ofc. Eric Copeland,ofc,White,Male,36,APD,2.0,No,0.4,handgun,No,3,No Billed by Grand Jury,"{'latitude': '30.298349', 'longitude': '-97.684711', 'human_address': '{""address"": ""5200 Block Overbrook Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"12-5043966
+12-2691696",2012-09-25,Ofc. George Blanch,ofc,White,Male,36,APD,8.0,No,0.4,handgun,No (subject did have gun),6,No Billed by Grand Jury,"{'latitude': '30.227091', 'longitude': '-97.74466', 'human_address': '{""address"": ""2915 S IH 35 Svrd NB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"12-5047326
+12-2940313",2012-10-20,Ofc. Robert Krummel,ofc,White,Male,27,APD,3.0,No,0.4,handgun,No,4,No Billed by Grand Jury,"{'latitude': '38.848634', 'longitude': '-91.944226', 'human_address': '{""address"": ""300 block E 6th St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"12-5005552
+12-0341696",2012-02-03,Ofc. Shaun Donovan,ofc,White,Male,33,APD,2.0,No,0.4,handgun,Yes,2,No Billed by Grand Jury,"{'latitude': '30.355057', 'longitude': '-97.752106', 'human_address': '{""address"": ""7201 Wood Hollow Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"13-5033792
+13-2071392",2013-07-26,"Det. Charles ""Trey"" Kleinert",det,White,Male,49,APD,19.0,No,0.4,handgun,No,1,Indicted,"{'human_address': '{""address"": ""W 35th St/W 34th St (3500 CRAWFORD AVE)"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"13-5009062
+13-0600435",2013-03-01,Ofc. Johnathan Whitted,ofc,White,Male,33,APD,4.0,No,0.4,handgun,Yes,2,No Billed by Grand Jury,"{'latitude': '30.384132', 'longitude': '-97.708018', 'human_address': '{""address"": ""10617 Lanshire Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"13-5048070
+13-5048073
+13-2911294",2013-10-18,Ofc. Cecil Jones,ofc,Black,Male,52,APD,20.0,No,0.223,rifle,Yes,1,No Billed by Grand Jury,"{'latitude': '30.379773', 'longitude': '-97.704626', 'human_address': '{""address"": ""1609 Cripple Creek Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"13-5048070
+13-5048073
+13-2911294",2013-10-18,Ofc. Michael Decker,ofc,White,Male,30,APD,5.0,No,0.223,rifle,Yes,2,No Billed by Grand Jury,"{'latitude': '30.379773', 'longitude': '-97.704626', 'human_address': '{""address"": ""1609 Cripple Creek Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"13-5017606
+13-1131720",2013-04-23,Ofc. Nicholas Moore,ofc,White,Male,30,APD,3.0,No,5.56,rifle,Yes,9,No Billed by Grand Jury,"{'latitude': '30.234584', 'longitude': '-97.691949', 'human_address': '{""address"": ""706 Valdez St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+5,"13-5039952
+13-2430035",2013-08-31,Ofc. Shane Cunningham,ofc,Asian,Male,35,APD,11.0,No,0.4,handgun,No,15,No Billed by Grand Jury,"{'latitude': '30.382402', 'longitude': '-97.733069', 'human_address': '{""address"": ""9416 Neils Thompson Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+6,"13-5019982
+13-1280390",2013-05-08,Ofc. Justin Boehm,ofc,White,Male,26,APD,5.0,No,0.4,handgun,No,1,No Billed by Grand Jury,"{'latitude': '40.178357', 'longitude': '-85.348554', 'human_address': '{""address"": ""3300 E 12th St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+7,"13-5017606
+13-1131720",2013-04-23,Ofc. Ricardo Cardona,ofc,Hispanic,Male,29,APD,0.1,No,0.4,handgun,Yes,8,No Billed by Grand Jury,"{'latitude': '30.234584', 'longitude': '-97.691949', 'human_address': '{""address"": ""706 Valdez St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+8,"13-5048070
+13-5048073
+13-2911294",2013-10-18,Ofc. Cory Knop,ofc,White,Male,29,APD,2.0,No,0.223,rifle,Yes,4,No Billed by Grand Jury,"{'latitude': '30.379773', 'longitude': '-97.704626', 'human_address': '{""address"": ""1609 Cripple Creek Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+9,"13-5002063
+13-0141039",2013-01-14,Ofc. Roosevelt Granderson,ofc,Black,Male,39,APD,12.0,No,0.4,handgun,Yes,9,No Billed by Grand Jury,"{'latitude': '30.312738', 'longitude': '-97.66281', 'human_address': '{""address"": ""7112 Ed Bluestein Blvd SVRD SB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+10,"13-5052096
+13-3141499",2013-11-10,Ofc. Adrien Chopin,ofc,White,Male,34,APD,2.0,No,0.223,rifle,Yes,2,No Billed by Grand Jury,"{'latitude': '30.2877', 'longitude': '-97.725141', 'human_address': '{""address"": ""2900 Cole St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+11,"13-5052096
+13-3141499",2013-11-10,Ofc. Leonardo Cardenas,ofc,Hispanic,Male,34,APD,4.0,No,0.223,rifle,Yes,1,No Billed by Grand Jury,"{'latitude': '30.2877', 'longitude': '-97.725141', 'human_address': '{""address"": ""2900 Cole St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+12,"13-5021565
+13-1370254",2013-05-17,Ofc. Robert Barger ,ofc,White,Male,45,APD,2.0,No,0.4,handgun,Yes,1,No Billed by Grand Jury,"{'latitude': '30.321071', 'longitude': '-97.687437', 'human_address': '{""address"": ""6855 E US 290 Hwy SVRD EB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+13,"13-5017606
+13-1131720",2013-04-23,Ofc. Matthew Henion,ofc,White,Male,28,APD,2.0,No,5.56,rifle,Yes,2,No Billed by Grand Jury,"{'latitude': '30.234584', 'longitude': '-97.691949', 'human_address': '{""address"": ""706 Valdez St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+14,"13-5017606
+13-1131720",2013-04-23,Ofc. Donovan Hunter,ofc,White,Male,31,APD,2.0,No,5.56,rifle,Yes,4,No Billed by Grand Jury,"{'latitude': '30.234584', 'longitude': '-97.691949', 'human_address': '{""address"": ""706 Valdez St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+15,"13-5002063
+13-0141039",2013-01-14,Ofc. Aaron Pippin,ofc,White,Male,46,APD,22.0,No,0.4,handgun,Yes,3,No Billed by Grand Jury,"{'latitude': '30.312738', 'longitude': '-97.66281', 'human_address': '{""address"": ""7112 Ed Bluestein Blvd SVRD SB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"14-5003813
+14-0250881",2014-01-25,Ofc. John Gabrielson,ofc,White,Male,39,APD,9.0,No,0.4,handgun,No,3,No Billed by Grand Jury,"{'latitude': '30.363177', 'longitude': '-97.696992', 'human_address': '{""address"": ""9400 N Lamar Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,14-2511591,2014-09-08,Det. Scott Glasgow,det,White,Male,40,APD,14.0,Yes,0.4,handgun,No (subject did have gun),9,DOJ review cleared officers,"{'latitude': '30.426237', 'longitude': '-97.673119', 'human_address': '{""address"": ""13712 Maye Pl"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"14-5012166
+14-0770816",2014-03-18,Sgt. Greg White,sgt,White,Male,39,APD,16.0,Yes,0.4,handgun,No (subject did have BB gun),3,No Billed by Grand Jury,"{'latitude': '30.316889', 'longitude': '-97.690853', 'human_address': '{""address"": ""6301 Berkman Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,14-2511591,2014-09-08,Det. Philip Hogue,det,White,Male,41,APD,17.0,No,0.4,handgun,No (subject did have gun),1,DOJ review cleared officers,"{'latitude': '30.426237', 'longitude': '-97.673119', 'human_address': '{""address"": ""13712 Maye Pl"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"14-3320160
+14-5052475",2014-11-28,Sgt. Adam Johnson,sgt,White,Male,39,APD,15.0,No,0.4,handgun,Yes,1,No Billed by Grand Jury,"{'latitude': '48.192789', 'longitude': '-114.299949', 'human_address': '{""address"": ""715 E 8th St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"15-1922009
+15-5030362 ",2015-07-12,Ofc. Patrick Cheatham,ofc,White,Male,35,TCSO,9.9,No,0.40,handgun,No (subject did have gun),2,No Billed by Grand Jury,"{'latitude': '30.246406', 'longitude': '-97.910421', 'human_address': '{""address"": ""9400 Claxton Dr (OOC - Travis County)"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"15-1860826
+15-5029094
+15-5030656 ",2015-07-05,Ofc. Carlos Lopez,ofc,Hispanic,Male,44,APD,9.6,No,0.40 / 12 guage,handgun / shotgun,Yes,16,No Billed by Grand Jury,"{'latitude': '30.269158', 'longitude': '-97.739649', 'human_address': '{""address"": ""700 San Jacinto Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"15-1860670
+15-5029092
+15-5030645",2015-07-05,Ofc. John Nelson,ofc,White,Male,32,APD,0.3,No,0.40,handgun,No (subject did have pellet gun),12,No Billed by Grand Jury,"{'latitude': '30.379781', 'longitude': '-97.70205', 'human_address': '{""address"": ""10607 Golden Quail Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"15-1860670
+15-5029092
+15-5030645",2015-07-05,Ofc. Stephen Johnson,ofc,White,Male,24,APD,0.6,No,0.40,handgun,No (subject did have pellet gun),3,No Billed by Grand Jury,"{'latitude': '30.379781', 'longitude': '-97.70205', 'human_address': '{""address"": ""10607 Golden Quail Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"15-1440098
+15-5022158",2015-05-24,Ofc. Jessica Martinez,ofc,Hispanic,Female,28,APD,3.8,No,0.40,handgun,Yes,1,No Billed by Grand Jury,"{'latitude': '30.307201', 'longitude': '-97.669664', 'human_address': '{""address"": ""6409 Springdale Rd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+5,"15-0381788
+15-5005471
+15-5006662",2015-02-08,Ofc. Luke Serrato,ofc,White,Male,30,APD,6.6,No,0.308,rifle,Yes,1,No Billed by Grand Jury,"{'latitude': '30.244609', 'longitude': '-97.888612', 'human_address': '{""address"": ""8206 Pax Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+6,"15-1860670
+15-5029092
+15-5030645",2015-07-05,Ofc. Matthew Murphy,ofc,White,Male,28,APD,1.3,No,0.40,handgun,No (subject did have pellet gun),8,No Billed by Grand Jury,"{'latitude': '30.379781', 'longitude': '-97.70205', 'human_address': '{""address"": ""10607 Golden Quail Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+7,"15-1450142
+15-5022316
+15-5022877",2015-05-25,Ofc. Robert Pfaff,ofc,White,Male,33,APD,7.4,No,5.56,rifle,Yes,3,No Billed by Grand Jury,"{'latitude': '30.33259', 'longitude': '-97.720879', 'human_address': '{""address"": ""6505 Shirley Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+8,"15-1440098
+15-5022158",2015-05-24,Ofc. Troy Wiser,ofc,White,Male,28,APD,2.5,No,5.56,rifle,Yes,2,No Billed by Grand Jury,"{'latitude': '30.307201', 'longitude': '-97.669664', 'human_address': '{""address"": ""6409 Springdale Rd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+9,"15-0230201
+15-5003040
+15-5003476",2015-01-23,Ofc. Daniel Hannah,ofc,White,Male,26,APD,2.1,No,0.40,handgun,Yes,3,No Billed by Grand Jury,"{'latitude': '30.167208', 'longitude': '-97.788916', 'human_address': '{""address"": ""120 W Slaughter Ln"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"16-1660189
+16-5024527",2016-06-14,Ofc James Harvel,ofc,White,Male,42,APD,15.8,Yes,0.223,rifle,Yes,1,prosecution declined,"{'human_address': '{""address"": ""6000 block Cougar Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"16-2581947
+16-5040418
+16-5038102",2016-09-15,Ofc Bernardo Ramirez,ofc,Hispanic,Male,55,APD,23.7,No,0.40,handgun,no (subject did have gun),3,prosecution declined,"{'latitude': '30.228925', 'longitude': '-97.83392', 'human_address': '{""address"": ""4201 Monterey Oaks Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"16-940866
+16-941306
+16-5013826
+16-5017173",2016-04-03,Ofc Armando Perez,ofc,Hispanic,Male,37,APD,9.8,No,0.40,handgun,No (subject did have gun),4,No Billed by Grand Jury,"{'latitude': '30.298878', 'longitude': '-82.978832', 'human_address': '{""address"": ""508 West Ave"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"16-390552
+16-5007698
+16-6005558
+",2016-02-08,Ofc Geoffrey Freeman,ofc,Black,Male,41,APD,10.6,No,0.40,handgun,No,2,No Billed by Grand Jury,"{'latitude': '30.391489', 'longitude': '-97.667084', 'human_address': '{""address"": ""12000 block Natures Bnd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"16-2900369
+16-5046503
+16-5042860",2016-10-16,Ofc Deborah Lindeman,ofc,White,Female,33,APD,2.8,No,0.40,handgun,yes,7,pending,"{'latitude': '30.197953', 'longitude': '-97.789496', 'human_address': '{""address"": ""744 W William Cannon Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+5,"16-2492260
+16-5036999
+16-5036744",2016-09-05,Ofc Andrew McRae,ofc,White,Male,33,APD,8.2,No,0.223,rifle,Yes,5,prosecution declined,"{'latitude': '30.398698', 'longitude': '-97.661704', 'human_address': '{""address"": ""12501 Tech Ridge Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+6,"16-1131869
+16-5031156
+16-5016874",2016-04-22,Ofc Matthew Paredes,ofc,Hispanic,Male,30,APD,4.5,No,0.223,rifle,Yes,1,No Billed by Grand Jury,"{'latitude': '30.221231', 'longitude': '-97.836546', 'human_address': '{""address"": ""6600 S MoPac Expy Svrd SB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+7,"16-2581947
+16-5040418
+16-5038102",2016-09-15,Ofc Brett Fritz,ofc,White,Male,27,APD,2.8,No,0.40,handgun,no (subject did have gun),15,prosecution declined,"{'latitude': '30.228925', 'longitude': '-97.83392', 'human_address': '{""address"": ""4201 Monterey Oaks Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+8,"16-2492260
+16-5036999
+16-5036744",2016-09-05,Cpl Salvatore Reale,cpl,White,Male,56,APD,26.8,No,0.223,rifle,Yes,1,prosecution declined,"{'latitude': '30.398698', 'longitude': '-97.661704', 'human_address': '{""address"": ""12501 Tech Ridge Blvd"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+9,"16-1050267
+16-5015495",2016-04-14,Ofc Leighton Radtke,ofc,White,Male,32,APD,8.3,No,0.223,rifle,Yes,3,Prosecution Declined-Officer,"{'latitude': '30.345194', 'longitude': '-97.717559', 'human_address': '{""address"": ""1002 Morrow St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+10,"16-801294
+16-5011754",2016-03-20,Ofc Matthew Michaelson,ofc,White,Male,29,APD,1.3,No,12 gauge,shotgun,Yes,4,No Billed by Grand Jury,"{'latitude': '30.362494', 'longitude': '-97.684934', 'human_address': '{""address"": ""9811 N IH 35 SVRD NB"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+11,"16-2900369
+16-5046503
+16-5042860",2016-10-16,Ofc Richard Smith,ofc,White,Male,33,APD,2.6,No,9mm,handgun,yes,5,pending,"{'latitude': '30.197953', 'longitude': '-97.789496', 'human_address': '{""address"": ""744 W William Cannon Dr"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+0,"17-972006
+17-5014510",2017-04-07,Ofc Jordan Wagstaff,ofc,White,Male,30,APD,0.4,No,12 gauge,shotgun,yes,2,Pending,"{'latitude': '30.28687', 'longitude': '-97.658896', 'human_address': '{""address"": ""6321 PARLIAMENT DR"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+1,"17-1270282
+17-5018795
+17-5026492
+17-1270300",2017-05-07,Sgt Richard Egal,sgt,White,Male,46,APD,17.8,No,9mm,handgun,yes,3,Pending,"{'latitude': '29.881245', 'longitude': '-97.667536', 'human_address': '{""address"": ""600 TRINITY ST"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+2,"17-5049986
+17-3510568",2017-12-17,Ofc Jason Canales,ofc,Hispanic,Male,41,APD,9.0,No,9mm,handgun,yes,6,Pending,"{'latitude': '30.379441', 'longitude': '-97.751594', 'human_address': '{""address"": ""4022 Greenhill Place"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+3,"17-1270282
+17-5018795
+17-5026492
+17-1270300",2017-05-07,Cpl Maxwell Johnson,cpl,White,Male,31,APD,7.0,No,9mm,handgun,yes,2,Pending,"{'latitude': '29.881245', 'longitude': '-97.667536', 'human_address': '{""address"": ""600 TRINITY ST"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+4,"17-140100
+17-5001846
+17-5020338",2017-01-14,Ofc Jesse Lane ,ofc,White,Male,31,APD,6.5,No,0.223,rifle,Yes,6,Prosecution Declined,"{'latitude': '30.445259', 'longitude': '-97.805086', 'human_address': '{""address"": ""11512 OLSON DR"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+5,"17-5049741
+17-3490320",2017-12-15,Ofc Alfredo Delvalle,ofc,Hispanic,Male,51,APD,22.9,No,9mm,handgun,yes,1,Pending,"{'latitude': '30.322115', 'longitude': '-97.740477', 'human_address': '{""address"": ""5007 Lynnwood St"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+6,"17-972006
+17-5014510",2017-04-07,Ofc Marcos Johnson,ofc,Black,Male,30,APD,8.3,No,0.223,rifle,yes,1,Pending,"{'latitude': '30.28687', 'longitude': '-97.658896', 'human_address': '{""address"": ""6321 PARLIAMENT DR"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+7,"17-1220770
+17-5018080
+17-5041807",2017-05-02,Ofc James Harvel,ofc,White,Male,42,APD,16.7,Yes,0.223,rifle,yes,3,Pending,"{'latitude': '37.49396', 'longitude': '-92.294899', 'human_address': '{""address"": ""11300 block LONG WINTER DR"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+8,"17-972006
+17-5014510",2017-04-07,Ofc Dane O'Neill,ofc,White,Male,29,APD,5.0,No,5.56,rifle,yes,4,Pending,"{'latitude': '30.28687', 'longitude': '-97.658896', 'human_address': '{""address"": ""6321 PARLIAMENT DR"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+9,"17-5005154
+17-370047",2017-02-06,Ofc Samuel Travis,ofc,White,Male,29,APD,4.6,No,9mm,handgun,no,5,Prosecution Declined-Officer,"{'latitude': '30.268608', 'longitude': '-97.691009', 'human_address': '{""address"": ""1100 Marks Circle"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+10,"17-972006
+17-5014510",2017-04-07,Ofc Paul Bianchi,ofc,White,Male,32,APD,4.7,No,5.56,rifle,yes,8,Pending,"{'latitude': '30.28687', 'longitude': '-97.658896', 'human_address': '{""address"": ""6321 PARLIAMENT DR"", ""city"": """", ""state"": """", ""zip"": """"}'}"
+11,"17-0531372
+17-5015929
+17-5007713",2017-02-22,Ofc Benjamin Rogers,ofc,White,Male,30,APD,3.2,No,9mm,handgun,no (subject did have a knife),3,Pending,"{'latitude': '30.1955', 'longitude': '-97.810196', 'human_address': '{""address"": ""7600 MANCHACA RD"", ""city"": """", ""state"": """", ""zip"": """"}'}"
